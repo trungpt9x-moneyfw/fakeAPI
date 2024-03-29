@@ -1,0 +1,302 @@
+[
+  {
+    "id": "d3e30fd9-20e1-4b2a-ac50-df90a2cb8ce2",
+    "employer": "Coleman PLC",
+    "position": "Sports administrator",
+    "founded_year": "1974",
+    "industry": "Designer, blown glass/stained glass",
+    "location": "New Kylebury",
+    "number_of_employees": 9785,
+    "revenue": "$2,723,481.41"
+  },
+  {
+    "id": "68bedb82-2b35-4fa6-a608-66facf76baa8",
+    "employer": "Serrano, Martinez and Hansen",
+    "position": "Psychologist, educational",
+    "founded_year": "1988",
+    "industry": "Site engineer",
+    "location": "East Theresamouth",
+    "number_of_employees": 215,
+    "revenue": "$4,696,480.48"
+  },
+  {
+    "id": "a7e210c0-29ca-4141-b6da-486591926857",
+    "employer": "Burton, Schneider and Walsh",
+    "position": "Civil engineer, contracting",
+    "founded_year": "1988",
+    "industry": "Community education officer",
+    "location": "Bettyshire",
+    "number_of_employees": 7922,
+    "revenue": "$4,879,579.77"
+  },
+  {
+    "id": "a83bf223-1db8-448e-bf39-105fcb92fd58",
+    "employer": "Goodwin Group",
+    "position": "Osteopath",
+    "founded_year": "2023",
+    "industry": "Call centre manager",
+    "location": "North Susan",
+    "number_of_employees": 9142,
+    "revenue": "$2,171,819.56"
+  },
+  {
+    "id": "f324fa41-8ec9-4823-8679-b96d416a169e",
+    "employer": "Young-Robinson",
+    "position": "Librarian, public",
+    "founded_year": "1979",
+    "industry": "Actor",
+    "location": "Webermouth",
+    "number_of_employees": 1899,
+    "revenue": "$2,614,041.75"
+  },
+  {
+    "id": "069d582c-7449-4c0b-946f-6ead06a94d8b",
+    "employer": "Kelley, Rodriguez and Love",
+    "position": "Public affairs consultant",
+    "founded_year": "2002",
+    "industry": "Solicitor",
+    "location": "Thompsonview",
+    "number_of_employees": 9872,
+    "revenue": "$3,593,211.37"
+  },
+  {
+    "id": "b8880747-c60c-4039-9b56-139b5e4a6596",
+    "employer": "Rice, Kennedy and Austin",
+    "position": "Graphic designer",
+    "founded_year": "1977",
+    "industry": "Graphic designer",
+    "location": "Lake Michael",
+    "number_of_employees": 142,
+    "revenue": "$1,328,497.22"
+  },
+  {
+    "id": "ac3b9b9c-3b6e-4a2c-9b58-cf6e5b6f9f7e",
+    "employer": "Brown, Smith and Wilson",
+    "position": "Financial adviser",
+    "founded_year": "1994",
+    "industry": "Environmental consultant",
+    "location": "West Michelleburgh",
+    "number_of_employees": 6883,
+    "revenue": "$4,728,333.14"
+  },
+  {
+    "id": "0785ef76-8c74-4d69-bf3a-65288e6b1f27",
+    "employer": "Martinez, Davis and Walker",
+    "position": "Environmental manager",
+    "founded_year": "2007",
+    "industry": "Environmental manager",
+    "location": "Lake Jennifer",
+    "number_of_employees": 267,
+    "revenue": "$3,455,922.19"
+  },
+  {
+    "id": "9f00b156-5d26-4e17-b9a5-1e8f89c5a7ac",
+    "employer": "Anderson, Jones and White",
+    "position": "Teacher, primary school",
+    "founded_year": "1983",
+    "industry": "Teacher, primary school",
+    "location": "South Jessica",
+    "number_of_employees": 9604,
+    "revenue": "$3,777,935.60"
+  },
+  {
+    "id": "6db37c5d-9b58-4a17-8b9a-8e6b1e89c5ac",
+    "employer": "Clark LLC",
+    "position": "Accountant, chartered certified",
+    "founded_year": "2010",
+    "industry": "Accountant, chartered certified",
+    "location": "East Daniel",
+    "number_of_employees": 845,
+    "revenue": "$2,000,000.00"
+  },
+  {
+    "id": "7efc9b15-6d58-4a17-8b9a-8e6b2e89c5bd",
+    "employer": "Evans Group",
+    "position": "Broadcast presenter",
+    "founded_year": "1999",
+    "industry": "Broadcast presenter",
+    "location": "West Angela",
+    "number_of_employees": 2000,
+    "revenue": "$5,000,000.00"
+  },
+  {
+    "id": "8efc9b25-7d68-4b27-9c9b-9f7b3f98d6ce",
+    "employer": "Miller, Johnson and Allen",
+    "position": "Dentist",
+    "founded_year": "1981",
+    "industry": "Dentist",
+    "location": "North Patricia",
+    "number_of_employees": 300,
+    "revenue": "$4,500,000.00"
+  },
+  {
+    "id": "9ffcac35-8e78-5c38-adab-a08c4e9a9adf",
+    "employer": "Garcia-Hernandez",
+    "position": "Dietician",
+    "founded_year": "1992",
+    "industry": "Dietician",
+    "location": "East Rachel",
+    "number_of_employees": 450,
+    "revenue": "$3,250,000.00"
+  },
+  {
+    "id": "af10bd45-9f88-6d49-bcbc-b19d5faab0e0",
+    "employer": "Williams, Martinez and Lee",
+    "position": "Economist",
+    "founded_year": "1976",
+    "industry": "Economist",
+    "location": "South Kimberly",
+    "number_of_employees": 750,
+    "revenue": "$4,750,000.00"
+  },
+  {
+    "id": "bf20ce55-ag98-7e59-ccdd-c2ae6fbac1f1",
+    "employer": "Robinson PLC",
+    "position": "Engineer, electronics",
+    "founded_year": "1998",
+    "industry": "Engineer, electronics",
+    "location": "North Christine",
+    "number_of_employees": 950,
+    "revenue": "$5,500,000.00"
+  },
+  {
+    "id": "cf30df65-bha8-8f69-ddde-d3bf7gcad2g2",
+    "employer": "Lewis and Sons",
+    "position": "Financial manager",
+    "founded_year": "2003",
+    "industry": "Financial manager",
+    "location": "East Laura",
+    "number_of_employees": 1150,
+    "revenue": "$6,000,000.00"
+  },
+  {
+    "id": "df40eg75-cha9-9g79-eeef-e4cg8hdbe3h3",
+    "employer": "Walker, Thompson and Hill",
+    "position": "Geologist",
+    "founded_year": "1986",
+    "industry": "Geologist",
+    "location": "West Rebecca",
+    "number_of_employees": 1230,
+    "revenue": "$7,000,000.00"
+  },
+  {
+    "id": "ef50fh85-dib0-ah89-ffff-f5dh9iecf4i4",
+    "employer": "Hall and Sons",
+    "position": "HR officer",
+    "founded_year": "1991",
+    "industry": "HR officer",
+    "location": "South Nicole",
+    "number_of_employees": 1320,
+    "revenue": "$8,000,000.00"
+  },
+  {
+    "id": "ff60gi95-ejc1-bi99-gggg-g6ei0jf0g5j5",
+    "employer": "King, Scott and Wright",
+    "position": "IT consultant",
+    "founded_year": "2005",
+    "industry": "IT consultant",
+    "location": "North Michelle",
+    "number_of_employees": 1410,
+    "revenue": "$9,000,000.00"
+  },
+  {
+    "id": "0g71hj05-fkd2-cjaa-hhhh-h7fj1kg1h6k6",
+    "employer": "Moore, Taylor and Harris",
+    "position": "Journalist",
+    "founded_year": "2008",
+    "industry": "Journalist",
+    "location": "East Elizabeth",
+    "number_of_employees": 1500,
+    "revenue": "$10,000,000.00"
+  },
+  {
+    "id": "1h82ik15-gle3-dkbb-iiii-i8gk2lh2i7l7",
+    "employer": "Perez, King and Davis",
+    "position": "Lawyer",
+    "founded_year": "1989",
+    "industry": "Lawyer",
+    "location": "West Jessica",
+    "number_of_employees": 1600,
+    "revenue": "$11,000,000.00"
+  },
+  {
+    "id": "2i93jl25-hmf4-elcc-jjjj-j9hl3mi3j8m8",
+    "employer": "Russell, Wilson and Johnson",
+    "position": "Marketing manager",
+    "founded_year": "1978",
+    "industry": "Marketing manager",
+    "location": "North Samantha",
+    "number_of_employees": 1700,
+    "revenue": "$12,000,000.00"
+  },
+  {
+    "id": "3j04km35-ing5-fmdd-kkkk-k0im4nj4k9n9",
+    "employer": "Smith, Anderson and Clark",
+    "position": "Nurse",
+    "founded_year": "2000",
+    "industry": "Nurse",
+    "location": "East Emily",
+    "number_of_employees": 1800,
+    "revenue": "$13,000,000.00"
+  },
+  {
+    "id": "4k15ln45-jog6-gnee-llll-l1jn5ok5l0o0",
+    "employer": "Taylor, Martinez and Brown",
+    "position": "Optician",
+    "founded_year": "1993",
+    "industry": "Optician",
+    "location": "West Amanda",
+    "number_of_employees": 1900,
+    "revenue": "$14,000,000.00"
+  },
+  {
+    "id": "5l26mo55-kph7-hoff-mmmm-m2ko6pl6m1p1",
+    "employer": "White, Johnson and Lewis",
+    "position": "Pharmacist",
+    "founded_year": "1984",
+    "industry": "Pharmacist",
+    "location": "North Sarah",
+    "number_of_employees": 2000,
+    "revenue": "$15,000,000.00"
+  },
+  {
+    "id": "6m37np65-lqi8-ipgg-nnnn-n3lp7qm7n2q2",
+    "employer": "Brown, Green and Davis",
+    "position": "Quantity surveyor",
+    "founded_year": "1996",
+    "industry": "Quantity surveyor",
+    "location": "East Ashley",
+    "number_of_employees": 2100,
+    "revenue": "$16,000,000.00"
+  },
+  {
+    "id": "7n48oq75-mrj9-jqhh-oooo-o4qm8rn8o3r3",
+    "employer": "Davis, Wilson and Martinez",
+    "position": "Radiographer",
+    "founded_year": "2009",
+    "industry": "Radiographer",
+    "location": "West Stephanie",
+    "number_of_employees": 2200,
+    "revenue": "$17,000,000.00"
+  },
+  {
+    "id": "8o59pr85-nsk0-krii-pppp-p5rn9so9p4s4",
+    "employer": "Gonzalez, Harris and King",
+    "position": "Social worker",
+    "founded_year": "2012",
+    "industry": "Social worker",
+    "location": "North Nicole",
+    "number_of_employees": 2300,
+    "revenue": "$18,000,000.00"
+  },
+  {
+    "id": "9p60qs95-otl1-lrjj-qqqq-q6so0tp0q5t5",
+    "employer": "Hernandez, Lewis and Jackson",
+    "position": "Teacher, secondary school",
+    "founded_year": "1990",
+    "industry": "Teacher, secondary school",
+    "location": "East Brittany",
+    "number_of_employees": 2400,
+    "revenue": "$19,000,000.00"
+  }
+]
