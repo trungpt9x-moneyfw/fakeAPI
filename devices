@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "name": "Apple Watch Series 7",
+      "imageURL": "https://target.scene7.com/is/image/Target/GUEST_6835b2c1-5aed-4cd7-83a1-b0ede7356959"
+    },
+    {
+      "name": "Apple iPad Pro",
+      "imageURL": "https://public.blenderkit.com/thumbnails/assets/a9f5ba59cff94bf7ab2656822030bd0c/files/thumbnail_89a1a562-aefb-4041-a85b-90efba197d12.jpg.256x256_q85.jpg.webp?webp_generated=1695331969"
+    },
+    {
+      "name": "Apple iPhone 13",
+      "imageURL": "https://shop.businesstelco.co.uk/wp-content/uploads/2022/01/apple-iphone-13-mini-13-7-cm-5-4-dual-sim-ios-15-5g-128-gb-red_61d6d6565b7ca.jpeg"
+    },
+    {
+      "name": "Apple MacBook Pro",
+      "imageURL": "https://exceldisc.com/_next/image?url=https%3A%2F%2Fapiv2.exceldisc.com%2Fmedia%2F15248%2Fconversions%2Fa6cb7c1f-99cf-4ec8-b5a1-a15c2587ef72-preview.jpg&w=256&q=75"
+    },
+    {
+      "name": "Apple AirPods Pro",
+      "imageURL": "https://helios-i.mashable.com/imagery/articles/07k51ZsLmXnCxCuhisTLYaF/images-1.fill.size_256x256.v1714147835.png"
+    },
+    {
+      "name": "Samsung Galaxy S22",
+      "imageURL": "https://electromall.net/_next/image?url=http%3A%2F%2Fcontent.electromall.net%2FResources%2FImages%2FMigratedData%2FGalaxy-s22-ultra-2.jpg&w=256&q=75"
+    },
+    {
+      "name": "Samsung Galaxy Tab S8",
+      "imageURL": "https://helios-i.mashable.com/imagery/articles/00aeVdh3NFofESESJu62pmr/images-1.fill.size_256x256.v1712757723.png"
+    },
+    {
+      "name": "Google Pixel 6",
+      "imageURL": "https://www.canadafree.ca/web/image/product.template/34/image_256/Pixel%206a?unique=4811232"
+    },
+    {
+      "name": "Google Pixel Watch",
+      "imageURL": "https://helios-i.mashable.com/imagery/articles/026zIlA5lV2wX7oThhgdg99/images-2.fill.size_256x256.v1712328000.png"
+    }
+  ]
+}
